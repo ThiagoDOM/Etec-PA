@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_20\Lista_03_Exe_20\bin\Debug\Lista_03_Exe_20.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_20\Lista_03_Exe_20\bin\Debug\Lista_03_Exe_20.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_20\Lista_03_Exe_20\bin\Debug\Lista_03_Exe_20.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_20\Lista_03_Exe_20\obj\Debug\Lista_03_Exe_20.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_20\Lista_03_Exe_20\obj\Debug\Lista_03_Exe_20.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_20\Lista_03_Exe_20\obj\Debug\Lista_03_Exe_20.pdb

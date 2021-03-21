@@ -1,0 +1,14 @@
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\bin\Debug\Lista_01_Exe_13.exe.config
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\bin\Debug\Lista_01_Exe_13.exe
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\bin\Debug\Lista_01_Exe_13.pdb
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\obj\Debug\Lista_01_Exe_13.exe
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\obj\Debug\Lista_01_Exe_13.pdb
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\bin\Debug\Lista_01_Exe_13.exe.config
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\obj\Debug\Lista_01_Exe_13.exe
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\obj\Debug\Lista_01_Exe_13.pdb
+D:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\bin\Debug\Lista_01_Exe_13.exe.config
+D:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\obj\Debug\Lista_01_Exe_13.exe
+D:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\obj\Debug\Lista_01_Exe_13.pdb
+D:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\bin\Debug\Lista_01_Exe_13.exe
+D:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\bin\Debug\Lista_01_Exe_13.pdb
+D:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_13\Lista_01_Exe_13\obj\Debug\Lista_01_Exe_13.csprojResolveAssemblyReference.cache

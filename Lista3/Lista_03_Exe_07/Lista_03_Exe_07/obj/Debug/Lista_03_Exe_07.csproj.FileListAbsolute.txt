@@ -1,0 +1,5 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_07\Lista_03_Exe_07\bin\Debug\Lista_03_Exe_07.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_07\Lista_03_Exe_07\bin\Debug\Lista_03_Exe_07.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_07\Lista_03_Exe_07\bin\Debug\Lista_03_Exe_07.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_07\Lista_03_Exe_07\obj\Debug\Lista_03_Exe_07.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_03_Exe_07\Lista_03_Exe_07\obj\Debug\Lista_03_Exe_07.pdb

@@ -1,0 +1,6 @@
+E:\Técnico\Lógica\lista2\Lista_02_Exe_23\Lista_02_Exe_23\bin\Debug\Lista_02_Exe_23.exe.config
+E:\Técnico\Lógica\lista2\Lista_02_Exe_23\Lista_02_Exe_23\bin\Debug\Lista_02_Exe_23.exe
+E:\Técnico\Lógica\lista2\Lista_02_Exe_23\Lista_02_Exe_23\bin\Debug\Lista_02_Exe_23.pdb
+E:\Técnico\Lógica\lista2\Lista_02_Exe_23\Lista_02_Exe_23\obj\Debug\Lista_02_Exe_23.csprojResolveAssemblyReference.cache
+E:\Técnico\Lógica\lista2\Lista_02_Exe_23\Lista_02_Exe_23\obj\Debug\Lista_02_Exe_23.exe
+E:\Técnico\Lógica\lista2\Lista_02_Exe_23\Lista_02_Exe_23\obj\Debug\Lista_02_Exe_23.pdb

@@ -1,0 +1,6 @@
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_25\Lista_03_Exe_25\bin\Debug\Lista_03_Exe_25.exe.config
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_25\Lista_03_Exe_25\bin\Debug\Lista_03_Exe_25.exe
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_25\Lista_03_Exe_25\bin\Debug\Lista_03_Exe_25.pdb
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_25\Lista_03_Exe_25\obj\Debug\Lista_03_Exe_25.csproj.CoreCompileInputs.cache
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_25\Lista_03_Exe_25\obj\Debug\Lista_03_Exe_25.exe
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_25\Lista_03_Exe_25\obj\Debug\Lista_03_Exe_25.pdb

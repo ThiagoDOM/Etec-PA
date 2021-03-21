@@ -1,0 +1,6 @@
+E:\Técnico\Lógica\lista2\Lista_02_Exe_12\Lista_02_Exe_12\bin\Debug\Lista_02_Exe_12.exe.config
+E:\Técnico\Lógica\lista2\Lista_02_Exe_12\Lista_02_Exe_12\bin\Debug\Lista_02_Exe_12.exe
+E:\Técnico\Lógica\lista2\Lista_02_Exe_12\Lista_02_Exe_12\bin\Debug\Lista_02_Exe_12.pdb
+E:\Técnico\Lógica\lista2\Lista_02_Exe_12\Lista_02_Exe_12\obj\Debug\Lista_02_Exe_12.csprojResolveAssemblyReference.cache
+E:\Técnico\Lógica\lista2\Lista_02_Exe_12\Lista_02_Exe_12\obj\Debug\Lista_02_Exe_12.exe
+E:\Técnico\Lógica\lista2\Lista_02_Exe_12\Lista_02_Exe_12\obj\Debug\Lista_02_Exe_12.pdb

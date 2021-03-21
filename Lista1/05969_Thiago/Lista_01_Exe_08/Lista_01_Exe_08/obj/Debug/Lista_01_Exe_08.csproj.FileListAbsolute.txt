@@ -1,0 +1,13 @@
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\bin\Debug\Lista_01_Exe_08.exe.config
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\bin\Debug\Lista_01_Exe_08.exe
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\bin\Debug\Lista_01_Exe_08.pdb
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\obj\Debug\Lista_01_Exe_08.exe
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\obj\Debug\Lista_01_Exe_08.pdb
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\bin\Debug\Lista_01_Exe_08.exe.config
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\obj\Debug\Lista_01_Exe_08.exe
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\obj\Debug\Lista_01_Exe_08.pdb
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\bin\Debug\Lista_01_Exe_08.exe
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\bin\Debug\Lista_01_Exe_08.pdb
+D:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\bin\Debug\Lista_01_Exe_08.exe.config
+D:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\obj\Debug\Lista_01_Exe_08.exe
+D:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_08\Lista_01_Exe_08\obj\Debug\Lista_01_Exe_08.pdb

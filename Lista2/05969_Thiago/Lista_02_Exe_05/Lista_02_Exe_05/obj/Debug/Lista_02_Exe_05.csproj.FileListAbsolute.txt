@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_05\Lista_02_Exe_05\bin\Debug\Lista_02_Exe_05.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_05\Lista_02_Exe_05\obj\Debug\Lista_02_Exe_05.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_05\Lista_02_Exe_05\bin\Debug\Lista_02_Exe_05.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_05\Lista_02_Exe_05\bin\Debug\Lista_02_Exe_05.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_05\Lista_02_Exe_05\obj\Debug\Lista_02_Exe_05.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_05\Lista_02_Exe_05\obj\Debug\Lista_02_Exe_05.pdb
+E:\Técnico\Lógica\lista2\Lista_02_Exe_05\Lista_02_Exe_05\bin\Debug\Lista_02_Exe_05.exe.config
+E:\Técnico\Lógica\lista2\Lista_02_Exe_05\Lista_02_Exe_05\obj\Debug\Lista_02_Exe_05.exe
+E:\Técnico\Lógica\lista2\Lista_02_Exe_05\Lista_02_Exe_05\obj\Debug\Lista_02_Exe_05.pdb

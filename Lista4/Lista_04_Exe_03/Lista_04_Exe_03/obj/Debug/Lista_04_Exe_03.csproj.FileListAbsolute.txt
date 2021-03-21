@@ -1,0 +1,6 @@
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_03\Lista_04_Exe_03\bin\Debug\Lista_04_Exe_03.exe.config
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_03\Lista_04_Exe_03\bin\Debug\Lista_04_Exe_03.exe
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_03\Lista_04_Exe_03\bin\Debug\Lista_04_Exe_03.pdb
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_03\Lista_04_Exe_03\obj\Debug\Lista_04_Exe_03.csprojResolveAssemblyReference.cache
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_03\Lista_04_Exe_03\obj\Debug\Lista_04_Exe_03.exe
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_03\Lista_04_Exe_03\obj\Debug\Lista_04_Exe_03.pdb

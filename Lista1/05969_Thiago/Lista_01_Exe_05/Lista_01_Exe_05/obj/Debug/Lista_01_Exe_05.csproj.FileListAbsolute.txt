@@ -1,0 +1,6 @@
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_05\Lista_01_Exe_05\bin\Debug\Lista_01_Exe_05.exe.config
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_05\Lista_01_Exe_05\obj\Debug\Lista_01_Exe_05.csprojResolveAssemblyReference.cache
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_05\Lista_01_Exe_05\bin\Debug\Lista_01_Exe_05.exe
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_05\Lista_01_Exe_05\bin\Debug\Lista_01_Exe_05.pdb
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_05\Lista_01_Exe_05\obj\Debug\Lista_01_Exe_05.exe
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_05\Lista_01_Exe_05\obj\Debug\Lista_01_Exe_05.pdb

@@ -1,0 +1,5 @@
+E:\Técnico\Lógica\Lista3\Lista_03_Exe_16\Lista_03_Exe_16\bin\Debug\Lista_03_Exe_16.exe.config
+E:\Técnico\Lógica\Lista3\Lista_03_Exe_16\Lista_03_Exe_16\bin\Debug\Lista_03_Exe_16.exe
+E:\Técnico\Lógica\Lista3\Lista_03_Exe_16\Lista_03_Exe_16\bin\Debug\Lista_03_Exe_16.pdb
+E:\Técnico\Lógica\Lista3\Lista_03_Exe_16\Lista_03_Exe_16\obj\Debug\Lista_03_Exe_16.exe
+E:\Técnico\Lógica\Lista3\Lista_03_Exe_16\Lista_03_Exe_16\obj\Debug\Lista_03_Exe_16.pdb

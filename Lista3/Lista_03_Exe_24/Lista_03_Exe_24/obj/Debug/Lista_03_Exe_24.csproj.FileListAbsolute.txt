@@ -1,0 +1,6 @@
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_24\Lista_03_Exe_24\bin\Debug\Lista_03_Exe_24.exe.config
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_24\Lista_03_Exe_24\bin\Debug\Lista_03_Exe_24.exe
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_24\Lista_03_Exe_24\bin\Debug\Lista_03_Exe_24.pdb
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_24\Lista_03_Exe_24\obj\Debug\Lista_03_Exe_24.csproj.CoreCompileInputs.cache
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_24\Lista_03_Exe_24\obj\Debug\Lista_03_Exe_24.exe
+D:\Técnico\Lógica\Aulas\Lista3\Lista_03_Exe_24\Lista_03_Exe_24\obj\Debug\Lista_03_Exe_24.pdb

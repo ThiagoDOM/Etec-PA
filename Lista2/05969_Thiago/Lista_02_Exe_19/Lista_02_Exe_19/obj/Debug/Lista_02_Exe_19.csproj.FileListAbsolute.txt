@@ -1,0 +1,19 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_19\Lista_02_Exe_19\bin\Debug\Lista_02_Exe_19.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_19\Lista_02_Exe_19\bin\Debug\Lista_02_Exe_19.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_19\Lista_02_Exe_19\bin\Debug\Lista_02_Exe_19.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_19\Lista_02_Exe_19\obj\Debug\Lista_02_Exe_19.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_19\Lista_02_Exe_19\obj\Debug\Lista_02_Exe_19.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_19\Lista_02_Exe_19\obj\Debug\Lista_02_Exe_19.pdb
+E:\Técnico\Lógica\lista2\Lista_02_Exe_19\Lista_02_Exe_19\bin\Debug\Lista_02_Exe_19.exe.config
+E:\Técnico\Lógica\lista2\Lista_02_Exe_19\Lista_02_Exe_19\obj\Debug\Lista_02_Exe_19.exe
+E:\Técnico\Lógica\lista2\Lista_02_Exe_19\Lista_02_Exe_19\obj\Debug\Lista_02_Exe_19.pdb
+E:\Técnico\Lógica\lista2\Lista_02_Exe_19\Lista_02_Exe_19\bin\Debug\Lista_02_Exe_19.exe
+E:\Técnico\Lógica\lista2\Lista_02_Exe_19\Lista_02_Exe_19\bin\Debug\Lista_02_Exe_19.pdb
+E:\Técnico\Lógica\lista2\Lista_02_Exe_19\Lista_02_Exe_19\obj\Debug\Lista_02_Exe_19.csprojResolveAssemblyReference.cache
+D:\Técnico\Lógica\lista2\05969_Thiago\Lista_02_Exe_19\Lista_02_Exe_19\bin\Debug\Lista_02_Exe_19.exe.config
+D:\Técnico\Lógica\lista2\05969_Thiago\Lista_02_Exe_19\Lista_02_Exe_19\bin\Debug\Lista_02_Exe_19.exe
+D:\Técnico\Lógica\lista2\05969_Thiago\Lista_02_Exe_19\Lista_02_Exe_19\bin\Debug\Lista_02_Exe_19.pdb
+D:\Técnico\Lógica\lista2\05969_Thiago\Lista_02_Exe_19\Lista_02_Exe_19\obj\Debug\Lista_02_Exe_19.csprojAssemblyReference.cache
+D:\Técnico\Lógica\lista2\05969_Thiago\Lista_02_Exe_19\Lista_02_Exe_19\obj\Debug\Lista_02_Exe_19.csproj.CoreCompileInputs.cache
+D:\Técnico\Lógica\lista2\05969_Thiago\Lista_02_Exe_19\Lista_02_Exe_19\obj\Debug\Lista_02_Exe_19.exe
+D:\Técnico\Lógica\lista2\05969_Thiago\Lista_02_Exe_19\Lista_02_Exe_19\obj\Debug\Lista_02_Exe_19.pdb

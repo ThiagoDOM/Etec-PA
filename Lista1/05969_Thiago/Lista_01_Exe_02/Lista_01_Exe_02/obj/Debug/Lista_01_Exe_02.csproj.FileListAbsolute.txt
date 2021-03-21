@@ -1,0 +1,16 @@
+C:\Users\Thiago\source\repos\Lista_01_Exe_02\Lista_01_Exe_02\obj\Debug\Lista_01_Exe_02.csprojAssemblyReference.cache
+C:\Users\Thiago\source\repos\Lista_01_Exe_02\Lista_01_Exe_02\obj\Debug\Lista_01_Exe_02.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\source\repos\Lista_01_Exe_02\Lista_01_Exe_02\bin\Debug\Lista_01_Exe_02.exe.config
+C:\Users\Thiago\source\repos\Lista_01_Exe_02\Lista_01_Exe_02\bin\Debug\Lista_01_Exe_02.exe
+C:\Users\Thiago\source\repos\Lista_01_Exe_02\Lista_01_Exe_02\bin\Debug\Lista_01_Exe_02.pdb
+C:\Users\Thiago\source\repos\Lista_01_Exe_02\Lista_01_Exe_02\obj\Debug\Lista_01_Exe_02.exe
+C:\Users\Thiago\source\repos\Lista_01_Exe_02\Lista_01_Exe_02\obj\Debug\Lista_01_Exe_02.pdb
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_02\Lista_01_Exe_02\bin\Debug\Lista_01_Exe_02.exe.config
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_02\Lista_01_Exe_02\obj\Debug\Lista_01_Exe_02.exe
+J:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_02\Lista_01_Exe_02\obj\Debug\Lista_01_Exe_02.pdb
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_02\Lista_01_Exe_02\bin\Debug\Lista_01_Exe_02.exe.config
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_02\Lista_01_Exe_02\obj\Debug\Lista_01_Exe_02.exe
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_02\Lista_01_Exe_02\obj\Debug\Lista_01_Exe_02.pdb
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_02\Lista_01_Exe_02\bin\Debug\Lista_01_Exe_02.exe
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_02\Lista_01_Exe_02\bin\Debug\Lista_01_Exe_02.pdb
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_02\Lista_01_Exe_02\obj\Debug\Lista_01_Exe_02.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_16\Lista_02_Exe_16\bin\Debug\Lista_02_Exe_16.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_16\Lista_02_Exe_16\bin\Debug\Lista_02_Exe_16.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_16\Lista_02_Exe_16\bin\Debug\Lista_02_Exe_16.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_16\Lista_02_Exe_16\obj\Debug\Lista_02_Exe_16.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_16\Lista_02_Exe_16\obj\Debug\Lista_02_Exe_16.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_02_Exe_16\Lista_02_Exe_16\obj\Debug\Lista_02_Exe_16.pdb

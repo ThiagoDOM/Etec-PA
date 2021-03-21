@@ -1,0 +1,5 @@
+H:\Técnico\Lógica\lista2\Lista_02_Exe_02\Lista_02_Exe_02\bin\Debug\Lista_02_Exe_02.exe.config
+H:\Técnico\Lógica\lista2\Lista_02_Exe_02\Lista_02_Exe_02\bin\Debug\Lista_02_Exe_02.exe
+H:\Técnico\Lógica\lista2\Lista_02_Exe_02\Lista_02_Exe_02\bin\Debug\Lista_02_Exe_02.pdb
+H:\Técnico\Lógica\lista2\Lista_02_Exe_02\Lista_02_Exe_02\obj\Debug\Lista_02_Exe_02.exe
+H:\Técnico\Lógica\lista2\Lista_02_Exe_02\Lista_02_Exe_02\obj\Debug\Lista_02_Exe_02.pdb

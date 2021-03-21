@@ -1,0 +1,12 @@
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_01_Exe_01\Lista_01_Exe_01\bin\Debug\Lista_01_Exe_01.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_01_Exe_01\Lista_01_Exe_01\bin\Debug\Lista_01_Exe_01.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_01_Exe_01\Lista_01_Exe_01\bin\Debug\Lista_01_Exe_01.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_01_Exe_01\Lista_01_Exe_01\obj\Debug\Lista_01_Exe_01.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_01_Exe_01\Lista_01_Exe_01\obj\Debug\Lista_01_Exe_01.exe
+c:\users\aluno\documents\visual studio 2015\Projects\Lista_01_Exe_01\Lista_01_Exe_01\obj\Debug\Lista_01_Exe_01.pdb
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_01\Lista_01_Exe_01\bin\Debug\Lista_01_Exe_01.exe.config
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_01\Lista_01_Exe_01\obj\Debug\Lista_01_Exe_01.exe
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_01\Lista_01_Exe_01\obj\Debug\Lista_01_Exe_01.pdb
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_01\Lista_01_Exe_01\bin\Debug\Lista_01_Exe_01.exe
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_01\Lista_01_Exe_01\bin\Debug\Lista_01_Exe_01.pdb
+E:\Técnico\Lógica\05969_Thiago\Lista_01_Exe_01\Lista_01_Exe_01\obj\Debug\Lista_01_Exe_01.csprojResolveAssemblyReference.cache

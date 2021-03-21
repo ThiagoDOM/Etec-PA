@@ -1,0 +1,5 @@
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_02\Lista_04_Exe_02\bin\Debug\Lista_04_Exe_02.exe.config
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_02\Lista_04_Exe_02\bin\Debug\Lista_04_Exe_02.exe
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_02\Lista_04_Exe_02\bin\Debug\Lista_04_Exe_02.pdb
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_02\Lista_04_Exe_02\obj\Debug\Lista_04_Exe_02.exe
+E:\Técnico\Lógica\Aulas\Lista4\Lista_04_Exe_02\Lista_04_Exe_02\obj\Debug\Lista_04_Exe_02.pdb

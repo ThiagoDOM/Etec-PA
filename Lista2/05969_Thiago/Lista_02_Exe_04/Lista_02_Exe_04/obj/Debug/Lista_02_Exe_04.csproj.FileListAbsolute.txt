@@ -1,0 +1,11 @@
+H:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\bin\Debug\Lista_02_Exe_04.exe.config
+H:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\bin\Debug\Lista_02_Exe_04.exe
+H:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\bin\Debug\Lista_02_Exe_04.pdb
+H:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\obj\Debug\Lista_02_Exe_04.exe
+H:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\obj\Debug\Lista_02_Exe_04.pdb
+E:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\bin\Debug\Lista_02_Exe_04.exe.config
+E:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\obj\Debug\Lista_02_Exe_04.exe
+E:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\obj\Debug\Lista_02_Exe_04.pdb
+E:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\bin\Debug\Lista_02_Exe_04.exe
+E:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\bin\Debug\Lista_02_Exe_04.pdb
+E:\Técnico\Lógica\lista2\Lista_02_Exe_04\Lista_02_Exe_04\obj\Debug\Lista_02_Exe_04.csprojResolveAssemblyReference.cache
